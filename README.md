@@ -130,30 +130,6 @@ The executable will be generated inside the **dist** folder.
 
 ---
 
-# 📷 Screenshots
-
-Add screenshots inside a folder named **screenshots**.
-
-```
-screenshots/
-├── home.png
-└── chat.png
-```
-
-Then display them like this:
-
-```markdown
-## Home Screen
-
-![Home](screenshots/home.png)
-
-## Chat Window
-
-![Chat](screenshots/chat.png)
-```
-
----
-
 # 🔮 Future Improvements
 
 - 🤖 OpenAI / Gemini AI Integration
@@ -176,17 +152,6 @@ Then display them like this:
 
 ---
 
-# 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the repository
-2. Create a new branch
-3. Commit your changes
-4. Push to your branch
-5. Open a Pull Request
-
----
 
 # 👩‍💻 Developer
 
