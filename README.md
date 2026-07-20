@@ -14,7 +14,7 @@
 
 A simple yet modern AI-inspired desktop chatbot featuring a clean dark interface, interactive chat window, quick command buttons, and desktop application support.
 
-⭐ If you like this project, don't forget to star this repository!
+ If you like this project, don't forget to star this repository!
 
 </div>
 
