@@ -1,27 +1,48 @@
 # DecodeLabs-internship
+<div align="center">
+
 # 🤖 AI Desktop ChatBot
 
-A modern desktop chatbot built with **Python** and **Tkinter**. The chatbot features a dark-themed interface, quick action buttons, an interactive chat window, and a simple rule-based response system.
+### A Modern Desktop ChatBot Built with Python & Tkinter
+
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
+![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue)
+![Version](https://img.shields.io/badge/Version-v1.0-red)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![License](https://img.shields.io/badge/License-MIT-orange)
+
+A simple yet modern AI-inspired desktop chatbot featuring a clean dark interface, interactive chat window, quick command buttons, and desktop application support.
+
+⭐ If you like this project, don't forget to star this repository!
+
+</div>
 
 ---
 
-## 📌 Features
+# 📌 Overview
 
-- 💬 Modern Desktop GUI
-- 🌙 Dark Theme Interface
-- 🤖 Rule-Based AI Chatbot
-- 📤 Send Button
-- ⌨️ Enter Key Support
+AI Desktop ChatBot is a desktop application developed using **Python** and **Tkinter**. It simulates chatbot conversations using rule-based responses and provides a modern user interface suitable for beginners learning GUI development.
+
+---
+
+# ✨ Features
+
+- 🤖 AI Desktop ChatBot
+- 🌙 Modern Dark Theme
+- 💬 Interactive Chat Interface
 - 📜 Scrollable Chat Window
-- 🧹 Clear Chat Button
+- ⌨️ Enter Key Support
+- 📤 Send Button
+- 🧹 Clear Chat Option
 - 😊 Quick Action Buttons
 - 📱 Responsive Window
-- ❤️ Professional Footer
-- 🖥️ Windows Executable (.exe) Support
+- 💻 Windows Desktop Application (.exe)
+- 🎨 Clean User Interface
 
 ---
 
-## 🛠️ Technologies Used
+# 🛠️ Built With
 
 - Python 3
 - Tkinter
@@ -30,37 +51,43 @@ A modern desktop chatbot built with **Python** and **Tkinter**. The chatbot feat
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
-```
-DecodeLabs-project1/
+```text
+DecodeLabs-internship/
 │
 ├── chatbot.py
 ├── chatbot_app.py
-├── icon.ico
-├── chatbot_app.spec
 ├── README.md
+├── requirements.txt
+├── .gitignore
 ├── build/
 └── dist/
 ```
 
 ---
 
-## 🚀 Installation
+# 🚀 Getting Started
 
-### Clone the Repository
+## 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/sofiaghulamnabi76-afk/DecodeLabs-internship.git
 ```
 
-### Move into the Project Folder
+## 2️⃣ Navigate to the Project Folder
 
 ```bash
 cd DecodeLabs-internship
 ```
 
-### Run the ChatBot
+## 3️⃣ Install Requirements
+
+```bash
+pip install -r requirements.txt
+```
+
+## 4️⃣ Run the Application
 
 ```bash
 python chatbot_app.py
@@ -68,82 +95,124 @@ python chatbot_app.py
 
 ---
 
-## 📦 Create Executable (.exe)
+# 📦 Create Windows Executable
 
-Install PyInstaller:
+Install PyInstaller
 
 ```bash
 pip install pyinstaller
 ```
 
-Build the application:
+Generate the executable
 
 ```bash
 pyinstaller --onefile --windowed chatbot_app.py
 ```
 
-The executable will be created inside the **dist** folder.
+The executable will be generated inside the **dist** folder.
 
 ---
 
-## 💡 Available Commands
+# 💬 Available Commands
 
-- hello
-- hi
-- how are you
-- your name
-- who made you
-- thanks
-- good morning
-- good night
-- help
-- bye
-
----
-
-## 📸 Application Preview
-
-### Home Screen
-
-- Dark Theme
-- AI Chat Window
-- Quick Buttons
-- Scrollable Chat
-- User-Friendly Interface
-
-*(You can add screenshots here later.)*
+| Command | Description |
+|---------|-------------|
+| hello | Say Hello |
+| hi | Greeting |
+| how are you | Ask chatbot status |
+| your name | Display chatbot name |
+| who made you | Show creator information |
+| thanks | Thank you response |
+| good morning | Morning greeting |
+| good night | Night greeting |
+| help | Show available commands |
+| bye | Exit conversation |
 
 ---
 
-## 🔮 Future Improvements
+# 📷 Screenshots
 
-- 🤖 Real AI Integration (OpenAI / Gemini)
+Add screenshots inside a folder named **screenshots**.
+
+```
+screenshots/
+├── home.png
+└── chat.png
+```
+
+Then display them like this:
+
+```markdown
+## Home Screen
+
+![Home](screenshots/home.png)
+
+## Chat Window
+
+![Chat](screenshots/chat.png)
+```
+
+---
+
+# 🔮 Future Improvements
+
+- 🤖 OpenAI / Gemini AI Integration
 - 🎤 Voice Recognition
 - 🔊 Text-to-Speech
-- 🌐 Multiple Languages
-- 💾 Chat History
-- 📁 Save Conversations
-- 📊 User Analytics
-- 📤 Export Chat
-- 🌈 Light/Dark Mode
+- 🌐 Multi-language Support
+- 💾 Save Chat History
+- 📁 Export Conversations
+- 📂 File Upload Support
 - 😊 Emoji Suggestions
+- 🌈 Light/Dark Theme Switch
 
 ---
 
-## 👩‍💻 Developed By
+# 📋 Requirements
+
+- Python 3.10+
+- Tkinter
+- PyInstaller
+
+---
+
+# 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+2. Create a new branch
+3. Commit your changes
+4. Push to your branch
+5. Open a Pull Request
+
+---
+
+# 👩‍💻 Developer
 
 **Sophia Ghulam Nabi**
 
-GitHub:
+
+GitHub Profile:
+
 https://github.com/sofiaghulamnabi76-afk
 
 ---
 
-## 📄 License
+# 📄 License
 
-This project is developed for educational and internship purposes.
+This project is licensed under the **MIT License**.
 
-Feel free to use and modify this project for learning.
+You are free to use, modify, and distribute this project for educational purposes.
 
 ---
+
+<div align="center">
+
+### ⭐ Thank you for visiting this repository!
+
+
+</div>
+
+
 
