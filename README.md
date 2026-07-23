@@ -83,4 +83,3 @@ internship program, alongside coursework in databases, networking, and applied
 programming.
 
 ---
-**DecodeLabs** · [www.decodelabs.tech](https://www.decodelabs.tech) · decodelabs.tech@gmail.com
