@@ -56,7 +56,6 @@ Regression (80.3%) and a Decision Tree (78.7%) on the same test set.
 **Files:**
 - `heart.csv` — dataset
 - `heart_disease_classification.ipynb` — full executed notebook
-- `heart_disease_classification.py` — equivalent standalone script
 - `requirements.txt` — dependencies
 
 **Key Skills:** Data handling, supervised learning, model training, hyperparameter
@@ -65,7 +64,6 @@ tuning, model evaluation, data visualization
 **How to run:**
 ```bash
 pip install -r requirements.txt
-python heart_disease_classification.py
 # or open the notebook:
 jupyter notebook heart_disease_classification.ipynb
 ```
