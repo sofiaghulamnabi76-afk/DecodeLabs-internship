@@ -1,31 +1,3 @@
-# DecodeLabs AI  Internship
-
-**Batch:** 2026
-**Role:** Artificial Intelligence  Intern
-**Organization:** DecodeLabs
-
-## Overview
-
-This repository documents the projects completed during my AI Engineering internship at
-DecodeLabs. Each project builds on core machine learning and software engineering
-concepts, moving from rule-based systems toward supervised learning and predictive
-modeling.
-
----
-
-## Project 1: Rule-Based Chatbot
-
-**Status:** ✅ Completed
-
-**Description:**
-A Python desktop GUI chatbot built with Tkinter, using rule-based response logic. The
-interface follows a WhatsApp-style dark theme with quick-reply buttons and a clear-chat
-function for a clean, familiar user experience.
-
-**Key Skills:** GUI development, event-driven programming, rule-based logic design
-
----
-
 ## Project 2: Data Classification Using AI
 
 **Status:** ✅ Completed
@@ -76,10 +48,5 @@ jupyter notebook heart_disease_classification.ipynb
 
 `Python` · `pandas` · `NumPy` · `scikit-learn` · `matplotlib` · `seaborn` · `Tkinter`
 
-## About Me
 
-DS student building hands-on AI and software projects through the DecodeLabs
-internship program, alongside coursework in databases, networking, and applied
-programming.
 
----
